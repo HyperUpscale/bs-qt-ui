@@ -1,0 +1,9 @@
+requests
+concurrent
+json
+pandas
+numpy
+PyQt6
+bs4
+time
+lxml
